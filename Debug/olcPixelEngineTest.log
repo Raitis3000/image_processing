@@ -1,0 +1,3 @@
+﻿  olcPixelEngineTest.cpp
+C:\Users\Sollie\source\repos\olcPixelEngineTest\olcPixelEngineTest.cpp(6,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  olcPixelEngineTest.vcxproj -> C:\Users\Sollie\source\repos\olcPixelEngineTest\Debug\olcPixelEngineTest.exe

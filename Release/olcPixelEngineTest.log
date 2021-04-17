@@ -1,0 +1,7 @@
+﻿  escapi.cpp
+  olcPixelEngineTest.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1197 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  olcPixelEngineTest.vcxproj -> C:\Users\Sollie\source\repos\olcPixelEngineTest\Release\olcPixelEngineTest.exe
